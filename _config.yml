@@ -1,9 +1,6 @@
 title: Henrique Ferrari 
-email: send_me_spam@gmail.com
-description: A collection of projects and ideas I feel are worth sharing
-baseurl: "" # the subpath of your site, e.g. /blog
+description: Projects and ideas I feel are worth sharing
 url: "https://hferrari.github.io" 
-twitter_username: no_tweeter
 github_username: hferrri 
 
 theme: minima
