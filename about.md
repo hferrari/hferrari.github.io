@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+You can contact me at [h86267145@gmail.com](mailto:h86267145@gmail.com)
+
+--- 
+<br/>
+
 This website is all about my DIY projects. I intend on adding plans, thoughts, pictures.... Anything I feel is worth
 sharing with the world.
 
